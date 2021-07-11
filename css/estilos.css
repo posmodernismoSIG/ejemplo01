@@ -5,3 +5,26 @@ body
     font-family: Courier;
     box-shadow: rgb(0, 14, 2);
 }
+#cabecera
+{
+    background: brown;
+    color:lightyellow;
+    margin: 0;
+    padding: 0.5em;
+}
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 1px solid #DDD;
+    
+}
+#parrafo 
+{
+    background: darkslategrey;
+    left: auto;
+    grid-column-end: initial;
+    text-shadow: lavenderblush;
+    background-origin: padding-box;
+}
