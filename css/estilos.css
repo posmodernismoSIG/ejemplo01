@@ -1,0 +1,30 @@
+body
+{
+    color:rgb(15, 2, 2); 
+    text-align: center;
+    font-family: Courier;
+    box-shadow: rgb(18, 211, 47);
+}
+#cabecera
+{
+    background: brown;
+    color:lightyellow;
+    margin: 0;
+    padding: 0.5em;
+}
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 1px solid rgb(75, 14, 14);
+    
+}
+#parrafo 
+{
+    background: darkslategrey;
+    left: auto;
+    grid-column-end: initial;
+    text-shadow: lavenderblush;
+    background-origin: padding-box;
+}
